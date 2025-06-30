@@ -65,7 +65,7 @@ Duckietown-Thesis/
 
 │   ├── astar_manhattan_safety.py
 
-│   ├── astar_euclidean.py
+│   ├── astar_euclidean_safety.py
 
 │   ├── astar_manhattan.py
 
